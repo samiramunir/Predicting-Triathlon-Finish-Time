@@ -49,6 +49,7 @@ We then looked  at the correlation matrix of these features and dropped the high
 ![correlation with average temparature](/media/autocorrelation.png)
 
 After doing another set of feature selection using sklearn's SelectKBest. We used an OLS regression model to fit the data. The scores are as follows. 
+
 ![correlation with average temparature](/media/OLSregression.png)
 
 
