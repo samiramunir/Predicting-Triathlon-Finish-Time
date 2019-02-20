@@ -1,6 +1,6 @@
 # Predicting Triathlon Finish Time 
 
-Project Partner [Adam Liscia ](https://github.com/AdamLiscia)
+
 
 Looking into the effects of weather on the results of Ironman Kona, looking into why 2018 had such fast results, and to be able to predict average times based on weather.
 
@@ -58,6 +58,6 @@ Since our or R^2 is .463, we need more data to produce a more accurate model.
 
 
 
-
-
-
+********************************************************************
+Project Partner [Adam Liscia ](https://github.com/AdamLiscia)
+********************************************************************
