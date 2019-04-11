@@ -2,7 +2,7 @@
 
 
 
-Looking into the effects of weather on the results of Ironman Kona, looking into why 2018 had such fast results, and to be able to predict average times based on weather.
+Ironman Kona in 2018 had exceptional finish timings that was unprecedented. This project aims to see if those observed differences are statistically different or not. I also analyze the effects of weather on the results of Ironman Kona with the aim to be able to predict average times based on weather. 
 
 ![](/media/winner.png)
 
